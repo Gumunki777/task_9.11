@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://w-dog.ru/wallpapers/0/4/527894585704512/dum-dos-kod.jpg);
+    position: absolute;
+    top: 50%;
+	left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    color: rgb(25, 55, 224);
+}
+
+.card-body {
+    background-color: antiquewhite;
+}
+
+.card-header, .card-footer {
+    background-color: rgb(84, 122, 122);
+}
+
+#generation.btn.btn-success {
+    margin-right: 40px;
+}
+
+#clear.btn.btn-danger {
+    margin-left: 40px;
+}
